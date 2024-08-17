@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm  Aman , a passionate  developer with a focus o
 [Project Name](link to repository): [Brief description of the project. Include technologies or frameworks you're using.]
 [Another Project Name](link to repository): [Brief description.]
 
-🌱 What I'm Learning
+🌱  I'm Learning
 Ether js to enhance my skills in Blockchain.
 Exploring Machine learning to stay up-to-date with the latest trends.
 
