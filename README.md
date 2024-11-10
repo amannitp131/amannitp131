@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 I'm Aman , a passionate developer with a focus on web 3.0 ,web development. I love to build innovative solutions that solve real-world problems.<br><br> I'm Learning Ether js to enhance my skills in Blockchain. Exploring Machine learning to stay up-to-date with the latest trends.<br><br> Looking to Collaborate On Open-source projects that involve web 3 development. Innovative ideas that push the boundaries of web technology.<br><br>💬Ask Me About Blockchain development. Creating dynamic and responsive web applications using React, Node.js, and more. Leveraging AI/ML for recent project.
 
 
