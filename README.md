@@ -1,9 +1,7 @@
 Hi there 👋
 Welcome to my GitHub profile! I'm  Aman , a passionate  developer with a focus on web 3.0 ,web development. I love to build innovative solutions that solve real-world problems.
 
-🔭 Current Projects
-[Project Name](link to repository): [Brief description of the project. Include technologies or frameworks you're using.]
-[Another Project Name](link to repository): [Brief description.]
+
 
 🌱  I'm Learning
 Ether js to enhance my skills in Blockchain.
