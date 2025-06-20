@@ -25,19 +25,7 @@ Currently diving deeper into **Blockchain (Ether.js)** and exploring **Machine L
 
 ## 📌 Featured Projects
 
-### 🚀 [Expo-Projacto](https://expo-frontend.onrender.com/)
-> Project & Portfolio Showcase platform for college students  
-🔧 _React.js, Node.js, MongoDB_  
-✨ Features: Infinite scroll, project reels, likes/dislikes, interactive UI  
-🔗 [Frontend Code](https://github.com/amannitp131/Expo_Frontend)
 
----
-
-### 📅 [Meetra](https://onrender.com/)
-> Meeting & Event Scheduler with real-time conflict detection  
-🔧 _Next.js, Node.js, MongoDB_  
-📱 Fully responsive and ideal for organized event planning  
-🔗 [Frontend Code](https://github.com/amannitp131/Meetra)
 
 ---
 
