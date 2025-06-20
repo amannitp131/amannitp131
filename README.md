@@ -33,7 +33,7 @@ Currently diving deeper into **Blockchain (Ether.js)** and exploring **Machine L
 > AI-powered Organ Donation Matching System  
 🔧 _Next.js, TypeScript, Ether.js_  
 ✔ 2-Level admin approval, blockchain-backed reliability  
-🔗 [Frontend Code](https://github.com/amannitp131/Donix_org_frontend)
+🔗 [Code](https://github.com/amannitp131/Donix_org_frontend)
 
 ---
 
@@ -41,7 +41,7 @@ Currently diving deeper into **Blockchain (Ether.js)** and exploring **Machine L
 > Digital Mess Coupon Management System  
 🔧 _Next.js, Express, Socket.io_  
 📉 Eliminates physical tokens, ensures seamless redemption  
-🔗 [Frontend Code](https://github.com/amannitp131/SARWAM)
+🔗 [Code](https://github.com/amannitp131/SARWAM)
 
 ---
 
