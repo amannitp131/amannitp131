@@ -73,15 +73,6 @@ Currently diving deeper into **Blockchain (Ether.js)** and exploring **Machine L
 - 👨‍💻 Member @ Hackslash Team Ciphersync (Blockchain & AI)
 - 🌐 Member @ Official Web Team, NIT Patna
 
----
-
-## 🎓 Education
-**National Institute of Technology, Patna (2023 - 2027)**  
-_B.Tech in Computer Science & Engineering_  
-📊 **CGPA**: 7.61
-
-**BR DAV Public School (Class 12th, CBSE) — 92%**  
-**Saint Paul’s School (Class 10th, ICSE) — 91%**
 
 ---
 
