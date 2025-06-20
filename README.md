@@ -70,7 +70,7 @@ Currently diving deeper into **Blockchain (Ether.js)** and exploring **Machine L
 ---
 
 ## 📌 Roles & Contributions
-- 👨‍💻 Member @ Hackslash Team Ciphersync (Blockchain & AI)
+- 👨‍💻 Member @ Hackslash Team Ciphersync (Blockchain)
 - 🌐 Member @ Official Web Team, NIT Patna
 
 
