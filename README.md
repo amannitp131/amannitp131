@@ -51,8 +51,8 @@ Currently diving deeper into **Blockchain (Ether.js)** and exploring **Machine L
 - ⚔️ **Pupil** @ Codeforces  
 - 🥇 **12th Position** @ Byteverse Hackathon (NIT Patna)  
 - 🥉 **Rank 1608** in **IICPC**  
-- ✅ Top 1800 in **Amazon HackOn **  
-- ✅ Top 1600 in **EY Techathon **  
+- ✅ Top 1800 in Amazon HackOn   
+- ✅ Top 1600 in EY Techathon 
 - 🛳️ **AIR 306** in Indian Maritime University Exam  
 
 ---
